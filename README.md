@@ -3,7 +3,7 @@
 
 <div>
 
-<p>Class Image with functions for displaying an image, rotating the image, smoothening the image, converting RGB to grayscale, thresholding, edge detection, contour detection and drawing on the image.<p>
+<p>Class Image with functions for displaying an image, rotating the image, smoothening the image (averaging blur, gaussian blur and median blur), converting RGB to grayscale, thresholding, edge detection (canny algorithm), contour detection and drawing on the image.<p>
 
 </div>
 
@@ -19,7 +19,7 @@
   
 ![Rotated Image](Results/rotated.png)
 
-  <li>Smoothened image</li><br>
+  <li>Smoothened image - Averaging blur, Gaussian blur and Median blur</li><br>
   
 ![Smoothened Image](Results/smooth.png)
 
@@ -31,7 +31,7 @@
   
 ![Thresholded Image](Results/threshold.png)
 
-  <li>Edge detection</li><br>
+  <li>Canny edge detection</li><br>
   
 ![Edge detection](Results/edge.png)
 
