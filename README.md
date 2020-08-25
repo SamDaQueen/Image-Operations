@@ -5,14 +5,6 @@
 
 <p>Class Image with functions for displaying an image, rotating the image, smoothening the image, converting RGB to grayscale, thresholding, edge detection, contour detection and drawing on the image.<p>
 
-<h3>Files included</h3>
-
-<ol>
-<li>image-operations.py - Python code for the various operations on an image</li>
-<li>Image files shapes.jpg / lotr.jpg - the images on which the operations are to be performed</li>
-<li>Results folder - snapshots of the results of the operations
-</ol>
-
 </div>
 
 
@@ -48,4 +40,15 @@
 ![Contour detection](Results/contour.png)
 
  </ol>
+ 
+ 
+<h3>Files included</h3>
+
+<ol>
+<li>image-operations.py - Python code for the various operations on an image</li>
+<li>Image files shapes.jpg / lotr.jpg - the images on which the operations are to be performed</li>
+<li>Results folder - snapshots of the results of the operations
+</ol>
+
+</div>
   
